@@ -1,0 +1,50 @@
+[
+  {
+    "file": "barlow-condensed-400.ttf",
+    "sha256": "a8cc7ff9640feb14aedfbfd04fe4df72637cb6869329057ae319a4ad0e090a4a",
+    "bytes": 34020,
+    "source": "@fontsource/barlow-condensed/files/barlow-condensed-latin-400-normal.woff",
+    "source_sha256": "d990cc7e8f51893d4ba74c18fb0ca04e31d9c791c2c0dfbe95b7fa8e64c0b2c2",
+    "format": "sfnt decoded from WOFF1; glyph/name tables unchanged; checksum valid"
+  },
+  {
+    "file": "barlow-condensed-600.ttf",
+    "sha256": "1d98343f382436794ad6a305b4d970224e3c788e76c3cad44a3372a24203900f",
+    "bytes": 35720,
+    "source": "@fontsource/barlow-condensed/files/barlow-condensed-latin-600-normal.woff",
+    "source_sha256": "02e9d2ca2e9af5d8dbdfd30c4a5aa59632205901e9045140b559a44d361d8a46",
+    "format": "sfnt decoded from WOFF1; glyph/name tables unchanged; checksum valid"
+  },
+  {
+    "file": "ibm-plex-sans-400.ttf",
+    "sha256": "b7687a7b11bf4972c2807e6f1701bb55d1837e6957373e6610a81e3bbd4423a9",
+    "bytes": 46220,
+    "source": "@fontsource/ibm-plex-sans/files/ibm-plex-sans-latin-400-normal.woff",
+    "source_sha256": "828907bfd14855c880789878bd2b38ffd284a6c27c8b80f6069900f70dae3901",
+    "format": "sfnt decoded from WOFF1; glyph/name tables unchanged; checksum valid"
+  },
+  {
+    "file": "ibm-plex-sans-600.ttf",
+    "sha256": "846b4ae6213632652b5a500cb560d04be4e7183f85ca917a8b90b4a67cf624ad",
+    "bytes": 46228,
+    "source": "@fontsource/ibm-plex-sans/files/ibm-plex-sans-latin-600-normal.woff",
+    "source_sha256": "7861a349af1e925a80d56547c2c9e0b1e9f6a9002a9a6867351da2f05122ad21",
+    "format": "sfnt decoded from WOFF1; glyph/name tables unchanged; checksum valid"
+  },
+  {
+    "file": "ibm-plex-mono-400.ttf",
+    "sha256": "7fd0247fd247f38713b9b411430e1901ff87fb1d6b9bea6e267ad44d2ebfe993",
+    "bytes": 23976,
+    "source": "@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-400-normal.woff",
+    "source_sha256": "328d50b6ece9ca25c46eea3e885ba497f6237f2fb84ef7b92f88e14a1a25e381",
+    "format": "sfnt decoded from WOFF1; glyph/name tables unchanged; checksum valid"
+  },
+  {
+    "file": "ibm-plex-mono-600.ttf",
+    "sha256": "39e313ebb0e4dbecc7e839c664efa405092da434fa012493a23e2642dbad9666",
+    "bytes": 23828,
+    "source": "@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-600-normal.woff",
+    "source_sha256": "cb96282f22c6f19112856fd6e0b34e2baefaf4ca6551e851d58c5ab0aabcd2be",
+    "format": "sfnt decoded from WOFF1; glyph/name tables unchanged; checksum valid"
+  }
+]

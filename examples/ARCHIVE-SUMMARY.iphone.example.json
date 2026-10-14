@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "archive_set_id": "IPH-2025-0117",
+  "category": "III",
+  "summary": "Synthetic example only",
+  "file_count": 3,
+  "total_bytes": 411,
+  "details": {
+    "device": "iPhone 13",
+    "device_source": "user supplied",
+    "backup_date": "2025-01-17T12:34:00Z",
+    "encrypted": "YES",
+    "ios": "17.6.1",
+    "backup_folder_id": "***",
+    "disc_set_label": "IPA-001",
+    "second_copy": null,
+    "password_storage": "password manager"
+  },
+  "metadata": {
+    "schema_version": 1,
+    "kind": "iphone_backup",
+    "device": "iPhone14,5",
+    "product_type": "iPhone14,5",
+    "backup_date": "2025-01-17T12:34:00Z",
+    "encrypted": true,
+    "ios": "17.6.1",
+    "backup_folder_id": "***",
+    "provenance": {
+      "product_type": "Info.plist:Product Type",
+      "device": "Info.plist:Product Type (hardware identifier; model name not inferred)",
+      "ios": "Info.plist:Product Version",
+      "encrypted": "Manifest.plist:IsEncrypted",
+      "backup_date": "Info.plist:Last Backup Date"
+    },
+    "metadata_files": [
+      {
+        "file": "Info.plist",
+        "sha256": "db4ba63c923b3ea80e89b5e6851912fb8e0f16972cd08bcdcd79457c26fb5f4e"
+      },
+      {
+        "file": "Manifest.plist",
+        "sha256": "fdfe8abe5f3442bd11990435843f59faf9b640f65499263271a42c4d2462656f"
+      }
+    ],
+    "warnings": []
+  },
+  "original_deleted": false,
+  "snapshot_utc": "2026-09-05T02:08:35.0592742Z",
+  "disc_set": [
+    {
+      "disc_id": "BD-B-0001",
+      "position": 1,
+      "disc_count": 1,
+      "media_type": "BD25",
+      "status": "PLANNED",
+      "location": ""
+    }
+  ],
+  "annotation_note": "Second copy and password storage are user notes, not verification of another copy or access to a password.",
+  "synthetic_example_only": true
+}

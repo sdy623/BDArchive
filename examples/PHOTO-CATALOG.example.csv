@@ -1,0 +1,7 @@
+"path","kind","family","bytes","sha256","disc_id","alias_of"
+"旅程/001.ARW","RAW","旅程/001","12000","ff6698a6e831ffcf47af2fed388ffc262f319e72b26cd140929d1e19b1246ad4","BD-P-0001",
+"旅程/001.XMP","SIDECAR","旅程/001","17","77317cb3fd8af3fd75acfd1470bbfbefd9de892af2d374133df871e5807dcedd","BD-P-0001",
+"旅程/002.ARW","RAW","旅程/002","12000","ff6698a6e831ffcf47af2fed388ffc262f319e72b26cd140929d1e19b1246ad4","BD-P-0002","旅程/001.ARW"
+"旅程/002.ARW.xmp","SIDECAR","旅程/002","17","77317cb3fd8af3fd75acfd1470bbfbefd9de892af2d374133df871e5807dcedd","BD-P-0002","旅程/001.XMP"
+"旅程/003.ARW","RAW","旅程/003","12000","ff6698a6e831ffcf47af2fed388ffc262f319e72b26cd140929d1e19b1246ad4","BD-P-0003","旅程/001.ARW"
+"旅程/003.JPG","PREVIEW","旅程/003","17","3dddac13f2cca7b3303286e3d0adafaed7a850539ac2744e62e2739bfb84a1e8","BD-P-0003",

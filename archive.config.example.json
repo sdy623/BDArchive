@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "archive_root": "./archive",
+  "catalog_path": "./archive/catalog.sqlite",
+  "nfc_base_url": "http://localhost:8765",
+  "tools": {
+    "dwarfs": "",
+    "dwarfs_bin": "",
+    "winfsp": "C:/Program Files (x86)/WinFsp",
+    "imgburn": "",
+    "ffmpeg": "",
+    "mkvmerge": "",
+    "par2": "",
+    "python": ""
+  },
+  "media": {
+    "BD25": {
+      "capacity_bytes": 25025314816,
+      "payload_gib": 21,
+      "dwarfs_payload_gib": 21
+    },
+    "BD50": {
+      "capacity_bytes": 50050629632,
+      "payload_gib": 44,
+      "dwarfs_payload_gib": 44
+    }
+  },
+  "planning": {
+    "default_media": "BD25",
+    "par2_percent": 0,
+    "reserve_mib": 512,
+    "dwarfs_overhead_mib": 256,
+    "per_file_overhead_bytes": 4096,
+    "repeat_root_metadata": [
+      "Manifest.db",
+      "Manifest.db-*",
+      "*.plist",
+      "Manifest.mbdb",
+      "Manifest.mbdx"
+    ]
+  },
+  "dwarfs": {
+    "required_version": "0.15.7",
+    "compression_level": 0,
+    "workers": 4,
+    "memory_limit": "1g",
+    "build_profile": "fast",
+    "skip_roundtrip": true
+  },
+  "burn": {
+    "backend": "IMAPI2",
+    "speed": "4x",
+    "verify_after_write": false
+  },
+  "video": {
+    "target_gib": 20.5,
+    "maximum_gib": 21.5,
+    "thumbnail_interval_seconds": 300
+  },
+  "safety": {
+    "default_dry_run": true,
+    "require_restore_test_before_delete": true
+  },
+  "numbering": {
+    "volume_label_template": "{disc_id}",
+    "volume_templates": {
+      "iso9660": "",
+      "joliet": "",
+      "system": "",
+      "volume_set": "",
+      "publisher": "",
+      "data_preparer": "",
+      "application": ""
+    }
+  }
+}

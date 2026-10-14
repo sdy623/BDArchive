@@ -1,0 +1,3 @@
+# Preserve reviewed offline font and license bytes exactly on every platform.
+assets/fonts/* -text
+*.png -text

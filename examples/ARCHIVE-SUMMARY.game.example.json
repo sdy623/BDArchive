@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "archive_set_id": "GAME-SYNTHETIC",
+  "category": "II",
+  "summary": "User reviewed docking event",
+  "file_count": 1,
+  "total_bytes": 41,
+  "details": {
+    "scenario": "game",
+    "game": "Example game",
+    "date_range": null,
+    "tags": null,
+    "master_status": "encoded_copy_is_master",
+    "earlier_original_status": "DELETED",
+    "video_files": 1,
+    "metadata_note": "Events are user reviewed. Earlier original status refers to a historical source, separate from deletion of this ingest.",
+    "disc_set_label": null,
+    "second_copy": null
+  },
+  "metadata": null,
+  "original_deleted": false,
+  "snapshot_utc": "2026-09-05T02:12:44.6445202Z",
+  "disc_set": [
+    {
+      "disc_id": "BD-G-0001",
+      "position": 1,
+      "disc_count": 1,
+      "media_type": "BD25",
+      "status": "STAGED",
+      "location": ""
+    }
+  ],
+  "annotation_note": "Second copy and password storage are user notes, not verification of another copy or access to a password.",
+  "synthetic_example_only": true
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-09-05T00:00:00Z",
+  "sequences": {
+    "P": 0,
+    "G": 0,
+    "B": 12,
+    "M": 0
+  },
+  "sets": [
+    {
+      "archive_set_id": "IPHONE-2019-01",
+      "category": "III",
+      "summary": "EXAMPLE ONLY: old iPhone backup",
+      "file_count": 119873,
+      "total_bytes": 24126978785,
+      "original_deleted": false,
+      "restore_test": null,
+      "ingest_sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  ],
+  "discs": [
+    {
+      "disc_id": "BD-B-0012",
+      "archive_set_id": "IPHONE-2019-01",
+      "position": 1,
+      "disc_count": 2,
+      "media_type": "BD25",
+      "status": "PLANNED",
+      "location": "B-01 / Page 06 / B",
+      "nfc_url": "http://archive.home:8765/disc/BD-B-0012",
+      "burn_date": null,
+      "hash": null,
+      "stage": null,
+      "burn": null,
+      "verification": null,
+      "registered": false,
+      "original_deleted": false,
+      "catalog_id": "00000000-0000-4000-8000-000000000001",
+      "disc_index": 123,
+      "disc_prefix": "B",
+      "disc_number": 12,
+      "volume_id": "IPHONE-2019-01-V0001",
+      "volume_index": 1,
+      "volume_count": 2,
+      "volume_label": "BD-B-0012",
+      "identity_origin": "planned"
+    }
+  ],
+  "catalog_id": "00000000-0000-4000-8000-000000000001",
+  "disc_index_sequence": 123,
+  "counter_history": []
+}

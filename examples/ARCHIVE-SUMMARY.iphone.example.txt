@@ -1,0 +1,25 @@
+SYNTHETIC EXAMPLE ONLY — not an actual user backup
+
+Archive ID: IPH-2025-0117
+Device: iPhone 13
+Backup date: 2025-01-17T12:34:00Z
+Encrypted: YES
+iOS: 17.6.1
+Backup folder ID: ***
+Summary: Synthetic example only
+Disc set:
+  IPA-001 (label)
+  BD-B-0001 [1/1; PLANNED]
+
+Second copy:
+  UNKNOWN / not recorded
+
+Encryption password:
+  stored in password manager
+
+Category: III
+Files: 3
+Size: 411 bytes
+Original deleted: False
+Summary snapshot (UTC): 2026-09-05T02:08:35.0592742Z
+Notes: Second copy/password storage are user-supplied references. No password is stored by this feature.

@@ -1,0 +1,4 @@
+[
+  {"recorder_id":"TEST-X","drive":"X:","model":"Synthetic recorder X","display":"X:  Synthetic recorder X","media":"无盘 / 未知","blank":null,"free_bytes":null,"capacity_bytes":null,"speeds_x":[],"error":"未插入光盘"},
+  {"recorder_id":"TEST-Y","drive":"Y:","model":"Synthetic recorder Y","display":"Y:  Synthetic recorder Y","media":"BD-R","blank":true,"free_bytes":24220008448,"capacity_bytes":25025314816,"speeds_x":[2,4,6,8,12],"error":null}
+]

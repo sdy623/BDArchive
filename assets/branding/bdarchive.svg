@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+<title>BDArchive</title><desc>Optical disc above an archive tray. Original BDArchive artwork.</desc>
+<defs><linearGradient id="tile" x2="0" y2="1"><stop stop-color="#1b3c50"/><stop offset="1" stop-color="#0b1723"/></linearGradient></defs>
+<rect x="12" y="12" width="232" height="232" rx="32" fill="url(#tile)"/>
+<rect x="13" y="13" width="230" height="230" rx="31" fill="none" stroke="#426d80" stroke-width="2"/>
+<circle cx="128" cy="108" r="70" fill="#102b3b" stroke="#83e5f4" stroke-width="12"/>
+<circle cx="128" cy="108" r="22" fill="#0b1723" stroke="#83e5f4" stroke-width="9"/>
+<path d="M72 201H184" fill="none" stroke="#d4f5fc" stroke-width="10" stroke-linecap="round"/>
+<path d="M88 220H168" fill="none" stroke="#76b3c7" stroke-width="6" stroke-linecap="round"/>
+</svg>

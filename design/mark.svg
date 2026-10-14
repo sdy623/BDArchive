@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">BD Archive</title><desc id="desc">Original B identifier in the cyan and black Mission Console palette.</desc>
+  <rect width="128" height="128" fill="#020408"/>
+  <path d="M24 18h88l-8 92H16z" fill="#00A8E0"/>
+  <path d="M43 36h24c14 0 21 6 21 16 0 6-3 10-8 12 7 2 10 7 10 13 0 12-8 18-23 18H43zm15 12v11h9c5 0 7-2 7-6s-2-5-7-5zm0 23v12h10c5 0 8-2 8-6s-3-6-8-6z" fill="#00131D"/>
+</svg>

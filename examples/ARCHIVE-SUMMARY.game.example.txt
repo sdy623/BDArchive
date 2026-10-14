@@ -1,0 +1,26 @@
+SYNTHETIC EXAMPLE ONLY — not actual user data
+
+Archive ID: GAME-SYNTHETIC
+scenario: game
+game: Example game
+date_range: UNKNOWN / not recorded
+tags: UNKNOWN / not recorded
+master_status: encoded_copy_is_master
+earlier_original_status: DELETED
+video_files: 1
+metadata_note: Events are user reviewed. Earlier original status refers to a historical source, separate from deletion of this ingest.
+disc_set_label: UNKNOWN / not recorded
+second_copy: UNKNOWN / not recorded
+Summary: User reviewed docking event
+Disc set:
+  BD-G-0001 [1/1; STAGED]
+
+Second copy:
+  UNKNOWN / not recorded
+
+Category: II
+Files: 1
+Size: 41 bytes
+Original deleted: False
+Summary snapshot (UTC): 2026-09-05T02:12:44.6445202Z
+Notes: Second copy is a user-supplied reference, not a verification result.

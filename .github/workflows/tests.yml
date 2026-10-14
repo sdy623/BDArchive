@@ -1,0 +1,39 @@
+name: Windows source checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  synthetic-tests:
+    runs-on: windows-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Build React frontend
+        working-directory: ui
+        run: npm ci && npm run test:identifiers && npm run build
+      - name: Check public source only
+        shell: pwsh
+        run: python scripts/check-public-export.py
+      - name: Initialize ignored synthetic configuration
+        shell: pwsh
+        run: Copy-Item archive.config.example.json archive.config.json
+      - name: Python standard-library tests
+        shell: pwsh
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+      - name: PowerShell synthetic archive workflow
+        shell: pwsh
+        run: ./tests/run-tests.ps1 -Python (Get-Command python).Source
+      # No optical drives, real archives, live CLI integration, or source deletion.
+      # Runtime logs may contain host paths and are intentionally not uploaded.

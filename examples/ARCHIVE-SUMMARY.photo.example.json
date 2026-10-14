@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "archive_set_id": "PHOTO-SYNTHETIC",
+  "category": "I",
+  "summary": "SYNTHETIC photo fixture",
+  "file_count": 6,
+  "total_bytes": 36051,
+  "details": {
+    "scenario": "photo",
+    "photo_tier": "C",
+    "date_range": "2025-01 (user note)",
+    "camera": "Example camera",
+    "tags": null,
+    "raw_files": 3,
+    "preview_files": 1,
+    "master_files": 0,
+    "sidecar_files": 2,
+    "other_files": 0,
+    "photo_families": 3,
+    "photo_policy": "Cold rejected/unselected RAW; direct files; source deletion needs verified optical readback and explicit confirmation.",
+    "metadata_note": "Counts use extensions; family links use names. Date range/camera/tags are user notes, not extracted EXIF.",
+    "disc_set_label": null,
+    "second_copy": null
+  },
+  "metadata": null,
+  "original_deleted": false,
+  "snapshot_utc": "2026-09-05T02:12:36.9182769Z",
+  "disc_set": [
+    {
+      "disc_id": "BD-P-0001",
+      "position": 1,
+      "disc_count": 3,
+      "media_type": "BD25",
+      "status": "STAGED",
+      "location": ""
+    },
+    {
+      "disc_id": "BD-P-0002",
+      "position": 2,
+      "disc_count": 3,
+      "media_type": "BD25",
+      "status": "STAGED",
+      "location": ""
+    },
+    {
+      "disc_id": "BD-P-0003",
+      "position": 3,
+      "disc_count": 3,
+      "media_type": "BD25",
+      "status": "STAGED",
+      "location": ""
+    }
+  ],
+  "annotation_note": "Second copy and password storage are user notes, not verification of another copy or access to a password.",
+  "synthetic_example_only": true
+}

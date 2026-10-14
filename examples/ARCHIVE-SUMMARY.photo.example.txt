@@ -1,0 +1,33 @@
+SYNTHETIC EXAMPLE ONLY — not actual user data
+
+Archive ID: PHOTO-SYNTHETIC
+scenario: photo
+photo_tier: C
+date_range: 2025-01 (user note)
+camera: Example camera
+tags: UNKNOWN / not recorded
+raw_files: 3
+preview_files: 1
+master_files: 0
+sidecar_files: 2
+other_files: 0
+photo_families: 3
+photo_policy: Cold rejected/unselected RAW; direct files; source deletion needs verified optical readback and explicit confirmation.
+metadata_note: Counts use extensions; family links use names. Date range/camera/tags are user notes, not extracted EXIF.
+disc_set_label: UNKNOWN / not recorded
+second_copy: UNKNOWN / not recorded
+Summary: SYNTHETIC photo fixture
+Disc set:
+  BD-P-0001 [1/3; STAGED]
+  BD-P-0002 [2/3; STAGED]
+  BD-P-0003 [3/3; STAGED]
+
+Second copy:
+  UNKNOWN / not recorded
+
+Category: I
+Files: 6
+Size: 36051 bytes
+Original deleted: False
+Summary snapshot (UTC): 2026-09-05T02:12:36.9182769Z
+Notes: Second copy is a user-supplied reference, not a verification result.
